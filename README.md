@@ -40,3 +40,6 @@ This is where cached features go. Depending on how savedYet and toSave are set, 
 
 ## Paper
 https://github.com/samjkwong/ClassifyingEmotionsUsingUnsupervisedLearning/blob/master/paper.pdf
+
+## Poster
+https://github.com/samjkwong/ClassifyingEmotionsUsingUnsupervisedLearning/blob/master/poster.pdf
