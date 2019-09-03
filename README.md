@@ -1,6 +1,7 @@
-# Clustering Facial Emotion Using Unsupervised Learning 
-GitHub: https://github.com/dylangrosz/ClassifyingEmotionsUsingUnsupervisedLearning
+# Clustering Facial Emotion Using Unsupervised Learning
+
 ## Scripts
+
 ### runModel
 
 This is the main script of our project. 
@@ -36,3 +37,6 @@ This folder contains all of the raw image data from the Cohn-Kanade dataset. We 
 
 ### data/featureExtracted
 This is where cached features go. Depending on how savedYet and toSave are set, *runModel* either saves from or loads to this folder.
+
+## Paper
+https://github.com/samjkwong/ClassifyingEmotionsUsingUnsupervisedLearning/blob/master/paper.pdf
